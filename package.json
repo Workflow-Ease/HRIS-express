@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Workflow-Ease/HRIS-express/issues"
   },
-  "homepage": "https://github.com/Workflow-Ease/HRIS-express#readme"
+  "homepage": "https://github.com/Workflow-Ease/HRIS-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
